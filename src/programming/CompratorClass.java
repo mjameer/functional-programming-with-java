@@ -57,7 +57,7 @@ class Course {
 
 }
 
-public class FP04CustomClass {
+public class CompratorClass {
 
 	public static void main(String[] args) {
 		List<Course> courses = List.of(new Course("Spring", "Framework", 98, 20000),
